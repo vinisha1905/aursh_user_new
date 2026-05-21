@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ocean10/Workspace/Flutter-Workspace/sdk/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ocean10/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ocean10/Workspace/Aurshnew/android/app/.cxx/release/373o3adz/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ocean10/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ocean10/Workspace/Aurshnew/android/app/.cxx/release/373o3adz/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
