@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="Placeholder">
+        <attr name="lStar" format="float" />
+    </declare-styleable>
+</resources>
