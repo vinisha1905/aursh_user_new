@@ -21,6 +21,7 @@ class Constant {
         fontSize: 12.0);
   }
 
+
   static const String baseUrl = 'https://prod.ayursh.com/';
   static final String razorKey = 'rzp_live_Mc5uQZphH3SbfX';
   static final String freshChatAppId = 'bac58c97-9fc9-4922-b0c4-bd358cf7485f';
