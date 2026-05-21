@@ -40,6 +40,7 @@ jobs:
       - name: Build APK
         run: flutter build apk --release
 
+
       # Upload APK to Slack
       - name: Upload APK to Slack
         uses: MeilCli/slack-upload-file@v4
