@@ -39,6 +39,10 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
+      # Generate code
+      - name: Run build_runner
+        run: dart run build_runner build --delete-conflicting-outputs
+
       # Build APK
       - name: Build APK
         run: flutter build apk --release
