@@ -18,7 +18,7 @@ publish_to: "none" # Remove this line if you wish to publish to pub.dev
 version: 2.6.12+56
 
 environment:
-  sdk: ">=2.16.0 <4.0.0"
+  sdk: ">=3.7.0 <4.0.0"
 
 dependencies:
   agora_rtc_engine: ^6.5.1
