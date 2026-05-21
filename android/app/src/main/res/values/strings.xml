@@ -1,0 +1,7 @@
+<resource>
+    <string name="freshchat_file_provider_authority">com.ayursh.provider</string>
+    <string name="app_name">Ayursh</string>
+    <string name="facebook_app_id">234769711435627</string>
+    <string name="fb_login_protocol_scheme">fb234769711435627</string>
+    <string name="facebook_client_token">d6489aef68ff879cd50580b45f9b1c7f</string>
+</resource>

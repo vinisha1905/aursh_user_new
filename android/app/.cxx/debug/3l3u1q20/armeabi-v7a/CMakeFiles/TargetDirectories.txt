@@ -1,0 +1,2 @@
+/Users/ocean10/Workspace/Aurshnew/android/app/.cxx/debug/3l3u1q20/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ocean10/Workspace/Aurshnew/android/app/.cxx/debug/3l3u1q20/armeabi-v7a/CMakeFiles/rebuild_cache.dir

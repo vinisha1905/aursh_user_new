@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.757" height="20" viewBox="0 0 18.757 20">
+  <g id="_11-banking" data-name="11-banking" transform="translate(-36 -4)">
+    <g id="glyph" transform="translate(36 4)">
+      <rect id="Rectangle_441" data-name="Rectangle 441" width="16" height="2" rx="1" transform="translate(0 18)" fill="#00263b"/>
+      <path id="Path_1966" data-name="Path 1966" d="M356,280h2.225v6.676H356Z" transform="translate(-343.283 -269.032)" fill="#00263b"/>
+      <path id="Path_1967" data-name="Path 1967" d="M68,280h2.225v6.676H68Z" transform="translate(-66.728 -269.032)" fill="#00263b"/>
+      <path id="Path_1968" data-name="Path 1968" d="M148,280h2.225v6.676H148Z" transform="translate(-143.549 -269.032)" fill="#00263b"/>
+      <path id="Path_1969" data-name="Path 1969" d="M276,280h2.225v6.676H276Z" transform="translate(-266.463 -269.032)" fill="#00263b"/>
+      <path id="Path_1970" data-name="Path 1970" d="M51.95,119.865l-7.63-3.815a.477.477,0,0,0-.427,0l-7.63,3.815a.477.477,0,0,0-.264.427v1.272a.477.477,0,0,0,.477.477h15.26a.477.477,0,0,0,.477-.477v-1.272a.477.477,0,0,0-.264-.427Zm-7.843-.368a.477.477,0,1,1,.477-.477A.477.477,0,0,1,44.107,119.5Z" transform="translate(-36 -111.549)" fill="#00263b"/>
+      <path id="Path_1971" data-name="Path 1971" d="M341.908,102.384a.477.477,0,1,0,.954,0A2.387,2.387,0,0,0,340.477,100a.477.477,0,0,0,0,.954A1.432,1.432,0,0,1,341.908,102.384Z" transform="translate(-327.919 -96.185)" fill="#00263b"/>
+      <path id="Path_1972" data-name="Path 1972" d="M340.477,52a.477.477,0,0,0,0,.954,3.342,3.342,0,0,1,3.338,3.338.477.477,0,1,0,.954,0A4.3,4.3,0,0,0,340.477,52Z" transform="translate(-327.919 -50.093)" fill="#00263b"/>
+      <path id="Path_1973" data-name="Path 1973" d="M340.477,4a.477.477,0,0,0,0,.954,5.252,5.252,0,0,1,5.246,5.246.477.477,0,0,0,.954,0A6.206,6.206,0,0,0,340.477,4Z" transform="translate(-327.919 -4)" fill="#00263b"/>
+    </g>
+  </g>
+</svg>

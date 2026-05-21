@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="Ellipse_57" x="0" y="0" width="32" height="32" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_286" data-name="Group 286" transform="translate(-91 -448)">
+    <g transform="matrix(1, 0, 0, 1, 91, 448)" filter="url(#Ellipse_57)">
+      <circle id="Ellipse_57-2" data-name="Ellipse 57" cx="10" cy="10" r="10" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <g id="Group_275" data-name="Group 275" transform="translate(-73 197)">
+      <g id="Group_54" data-name="Group 54" transform="translate(174.813 261)">
+        <line id="Line_74" data-name="Line 74" x2="5.299" y2="5.299" transform="translate(0)" fill="none" stroke="#00263b" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_75" data-name="Line 75" x1="5.299" y2="5.299" transform="translate(5.299)" fill="none" stroke="#00263b" stroke-linecap="round" stroke-width="1"/>
+      </g>
+      <g id="Group_55" data-name="Group 55" transform="translate(174 263.438)">
+        <line id="Line_74-2" data-name="Line 74" x2="6.107" y2="6.107" transform="translate(0)" fill="none" stroke="#00263b" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_75-2" data-name="Line 75" x1="6.107" y2="6.107" transform="translate(6.107)" fill="none" stroke="#00263b" stroke-linecap="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
